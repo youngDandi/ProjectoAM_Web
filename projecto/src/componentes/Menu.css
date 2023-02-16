@@ -1,0 +1,30 @@
+.menu{
+    border-style: groove;
+    margin-right: 75%;
+    padding-bottom: 37%;
+    border-radius: 5%;
+}
+
+.user{
+    height: 10vh;
+    width: 10vh;
+    margin-left: 25%;
+    margin-top: 4%;
+    border-radius: 50%;
+}
+
+#nomeUser{
+    margin-left: 15%;
+    color: #676464;
+}
+
+.grelha{
+    padding-top: 20%;
+    margin-left: 10%;
+    color: #676464;
+    
+}
+
+h4{
+    padding-bottom: 10%;
+}
