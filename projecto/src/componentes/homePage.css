@@ -1,0 +1,29 @@
+:root {
+    --color-1: #50CFE3;
+    --color-2:  #366682
+}
+
+.user-table {
+    margin-left: 30vw;
+    margin-top: 3rem;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table * {
+    border: 1px solid black;
+}
+
+table td, table th {
+    padding: 7px 23px;
+}
+
+th {
+    background-color: var(--color-1);
+}
+
+tr:nth-child(odd) {
+    background-color: #e0e0e0;
+}
