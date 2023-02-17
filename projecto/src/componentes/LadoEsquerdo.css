@@ -1,0 +1,107 @@
+
+.ladoEsquerdo{
+    margin-left: -270px;
+    margin-top: -385px;
+    margin-right: 640px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Montserrat', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+#Visitante{
+    color: #4CC1D7;
+    display: flex;
+    float: left;
+    margin-left: 2%;
+}
+
+#Login{
+    color: #4CC1D7;
+    display: flex;
+    float: right;
+    margin-right: 2%;
+}
+
+#SignUp{
+    margin-right: 2%;
+    color: #676464;
+    display: flex;
+    float: right;
+}
+
+
+
+.image{
+    display: flex;
+    width: 20vh;
+    height: 20vh;
+    padding-top: 17%;
+    padding-left: 30%;
+}
+
+#Header{
+    margin-bottom: -15%;
+}
+
+
+.corpo{
+    margin-left: 20%;
+    margin-top: 27%;
+    background-color: white;
+    flex-direction: row;
+}
+
+#LoginE{
+   
+    color: #4CC1D7;
+    background-color: white;
+    
+}
+
+
+
+#Email{
+    border: none;
+    border-bottom: 1px solid #386F8A;
+    height: 15%;
+    width: 50%;
+    font-size: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Montserrat', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+    background-color: white;
+    margin-top: 2%;
+}
+
+#Pass{
+    border: none;
+    border-bottom: 1px solid #386F8A;
+    width: 50%;
+    font-size: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Montserrat', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+    background-color: white;
+    margin-top: 2%;
+}
+
+#botao{
+    font-family: -apple-system, BlinkMacSystemFont, 'Montserrat', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+    color: white;
+    width: 50%;
+    height: 40px;
+    border-radius: 10%;
+    background-image: linear-gradient(-135deg, #50CFE3, #366682);
+    font-size: 20px;
+    margin-top: 4%;
+    border: none;
+}
+
+#Link{
+    color: #676464;
+}
